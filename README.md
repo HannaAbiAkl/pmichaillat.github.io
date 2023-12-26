@@ -1,6 +1,6 @@
-# Source Code and Assets of pascalmichaillat.org
+# Source Code and Assets of hannaabiakl.org
 
-This repository contains the source code and assets of Pascal Michaillat's website at https://pascalmichaillat.org. 
+This repository contains the source code and assets of Hanna Abi Akl's website at https://hannaabiakl.org. 
 
 ## Source code
 
@@ -8,7 +8,7 @@ The website is built with [Hugo](https://github.com/gohugoio/hugo). The source c
 
 ## Assets
 
-The website's assets include [research material](https://pascalmichaillat.org/papers/) and [course material](https://pascalmichaillat.org/courses/). The assets are stored in the `static` folder (mostly as PDF files) and `content` folder (mostly as Markdown files), and they can be batch downloaded from there.
+The website's assets include [research material](https://hannaabiakl.org/publications/) and [course material](https://hannaabiakl.org/teaching/). The assets are stored in the `static` folder (mostly as PDF files) and `content` folder (mostly as Markdown files), and they can be batch downloaded from there.
 
 ## License
 

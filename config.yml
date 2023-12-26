@@ -1,5 +1,5 @@
-baseURL: "https://pascalmichaillat.org/" 
-title: Pascal Michaillat
+baseURL: "https://hannaabiakl.org/" 
+title: Hanna Abi Akl
 paginate: 20
 theme: PaperMod
 
@@ -11,22 +11,28 @@ taxonomies:
 
 menu:
     main:
-        - name: Papers
-          url: /papers/
+        - name: About
+          url: /about/
           weight: 1
-        - name: Courses
-          url: /courses/
+        - name: Publications
+          url: /publications/
           weight: 2
-        - name: Design
-          url: /design/
+        - name: Awards
+          url: /awards/
           weight: 3
-        - name: Newsletter
-          url: https://pmichaillat.substack.com
+        - name: Projects, Software & Data
+          url: /projects/
           weight: 4
+        - name: Teaching
+          url: /teaching/
+          weight: 5
+        - name: Community Service
+          url: /community/
+          weight: 6
 
 params:
-    description: "I am an Associate Professor of Economics at UC Santa Cruz. My research covers unemployment, economic slack, business cycles, and macroeconomic policy."
-    author: Pascal Michaillat
+    description: "I am a scientist, author and researcher in logic, language, computation and neuro-symbolic artificial intelligence. My main areas of research are mapping language to symbolic structures, logic-based reasoning and graph-based knowledge representation methods in AI. I work as an AI & NLP Researcher and teach at Data ScienceTech Institute. I also enjoy writing poetry and novels."
+    author: Hanna Abi Akl
     googleAnalyticsID: "G-97G4MZ4061"
     DateFormat: "January 2006"
     defaultTheme: light
@@ -49,41 +55,39 @@ params:
     math: true
     profileMode:
           enabled: true
-          title: Pascal Michaillat
-          subtitle: "I am an Associate Professor of Economics at the University of California, Santa Cruz. I try to understand why economic slack—especially unemployment—exists; why it fluctuates over the business cycle; and how macroeconomic policies should respond to such cyclical fluctuations."
+          title: Hanna Abi Akl
+          subtitle: "I am a scientist, author and researcher in logic, language, computation and neuro-symbolic artificial intelligence. My main areas of research are mapping language to symbolic structures, logic-based reasoning and graph-based knowledge representation methods in AI. I work as an AI & NLP Researcher and teach at Data ScienceTech Institute. I also enjoy writing poetry and novels."
           imageUrl: "/picture.jpeg"
           imageWidth: 160
           imageHeight: 160
-          imageTitle: Pascal Michaillat
+          imageTitle: Hanna Abi Akl
           buttons:
-            - name: Papers
-              url: /papers/
-            - name: Courses
-              url: /courses/
-            - name: Design
-              url: /design/
-            - name: Newsletter
-              url: https://pmichaillat.substack.com
-            - name: Tags
-              url: /tags/
-            - name: Archive
-              url: /archive/
+            - name: About
+              url: /about/
+            - name: Publications
+              url: /publications/
+            - name: Awards
+              url: /awards/
+            - name: Projects, Software & Data
+              url: /projects/
+            - name: Teaching
+              url: /teaching/
+            - name: Community Service
+              url: /community/
 
     socialIcons:
         - name: CV
           url: /cv.pdf
         - name: Email
-          url: mailto:pascal.michaillat@gmail.com
+          url: mailto:hannaabiakl8@gmail.com
         - name: Location
           url: /location/
-        - name: Office Hours
-          url: /officehours/
         - name: Google Scholar
-          url: https://scholar.google.com/citations?user=cL23w-4AAAAJ
-        - name: YouTube
-          url: https://www.youtube.com/@pmichaillat
+          url: https://scholar.google.com/citations?user=7oVvfP4AAAAJ&hl=en&oi=ao
+        - name: LinkedIn
+          url: https://www.linkedin.com/in/hannaabiakl/
         - name: GitHub
-          url: https://github.com/pmichaillat?tab=repositories
+          url: https://github.com/HannaAbiAkl?tab=repositories
 
     assets:
         disableHLJS: true
@@ -92,7 +96,7 @@ params:
         hiddenInList: false
         hiddenInSingle: true
     label:
-      text: "Pascal Michaillat"
+      text: "Hanna Abi Akl"
       icon: /favicon.ico
       iconHeight: 18
 
